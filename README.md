@@ -1,2 +1,2 @@
 # Proyecto-1
-Primer Proyecto de Fundamentos de Programación 2022
+Finalización del Primer Proyecto de Fundamentos de Programación 2022
